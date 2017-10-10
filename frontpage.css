@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Megrim');
+h1{
+	color: grey;
+	text-align: center;
+	font-family: 'Megrim';
+	font-size: 50px;
+}
+body{
+	background-image: url("drumlikeagirlpic.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
