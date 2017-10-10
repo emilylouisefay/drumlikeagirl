@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Megrim');
+h1{
+	font-family: 'Megrim';
+	text-align: center;
+	font-size: 50px;
+}
+body{
+	background-image: url("drumlikeagirlpic.png");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 50% -90%; 
+}
+.map{
+  text-align: center;
+}
+html, body {
+	cursor: url(http://www.rw-designer.com/cursor-extern.php?id=17361), default;
+}
