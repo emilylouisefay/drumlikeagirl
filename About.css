@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Megrim');
+h1{
+	color: grey;
+	text-align: center;
+	font-family: 'Megrim';
+	font-size: 50px;
+}
+body{
+	background-image: url("drumlikeagirlpic.png");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 50% -90%; 
+}
+li{
+	display: inline;
+	padding: 0px 80px 0px 80px;
+	font-size: 18px;
+}
+ul {
+	font-family: 'Megrim';
+	font-weight: 900;
+	padding: 0px 50px 0px 50px;
+	position: center;
+}
+a {
+	color: black;
+	text-decoration: none;
+}
+html, body {
+	cursor: url(http://www.rw-designer.com/cursor-extern.php?id=17361), default;
+}
