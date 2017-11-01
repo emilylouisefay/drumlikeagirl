@@ -10,13 +10,16 @@
 	<li><a href="connect.html">Connect</a></li>
 	<li><a href="index.html">Homepage</a></li>
 	</ul>
-	<form>
+	<form action="action_page.php">
 		Name:<br>
 		<input type ="text"> </input><br>
 		Last name: <br> 
 		<input type="text" name="lastname"><br>
+		<input type="text" name="email"><br>
 		Gender:<br>
 		<input type="radio" name="gender" value="male" checked> Male<br>
-		<input type="radio" name="gender" value="female" checked> Female
+		<input type="radio" name="gender" value="female" checked> Female<br>
+		<textarea name="message" rows="10" cols="30"><br>
+		<input type="submit" value="Submit">
 	</form>
 </body>
