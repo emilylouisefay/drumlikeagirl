@@ -29,3 +29,11 @@ a {
 html, body {
 	cursor: url(http://www.rw-designer.com/cursor-extern.php?id=17361), default;
 }
+form{
+	border-style: solid;
+	border-color: grey;
+	text-align: center;
+	font-family: 'Megrim';
+	font-size: 20;
+	font-weight:900;
+}
